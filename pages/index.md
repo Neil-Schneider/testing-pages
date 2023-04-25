@@ -1,3 +1,8 @@
+---
+title:Welcome Page
+permalink: /welcome-page/
+---
+
 # Welcome to my GitHub Pages Test
 
 This is just some simple markdown.
